@@ -54,11 +54,11 @@ Responsável por:
 - filtrar movimentações de saída
 - exibir os resultados no console
 
-Também executa uma falha simulada para demonstrar o tratamento de erros da aplicação. 【1-0c8492】
+Também executa uma falha simulada para demonstrar o tratamento de erros da aplicação.
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido para praticar conceitos de TypeScript abordados na UC8, incluindo funções assíncronas com Async/Await, carregamento paralelo com Promise.all, tratamento de erros utilizando try/catch, modo estrito do TypeScript e utilização de Type Guards para refinamento de tipos. 【1-0c8492】
+Este projeto foi desenvolvido para praticar conceitos de TypeScript abordados na UC8, incluindo funções assíncronas com Async/Await, carregamento paralelo com Promise.all, tratamento de erros utilizando try/catch, modo estrito do TypeScript e utilização de Type Guards para refinamento de tipos. 
 
 ## Saída da execução
 
